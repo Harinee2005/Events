@@ -1,0 +1,52 @@
+.initial-text {
+  color: #475569;
+  font-family: 'Roboto';
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.yet-to-reg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 90%;
+}
+
+.yet-to-reg-img {
+  width: 30vw;
+  height: 30vw;
+}
+
+.yet-to-reg-para {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 1.2rem;
+}
+
+.yet-to-reg-btn {
+  background-color: #0967d2;
+  font-size: 0.7rem;
+  color: #ffffff;
+  width: 10vw;
+  border-radius: 5px;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.reg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70%;
+}
+
+.reg-img {
+  width: 10vw;
+}
+
+.reg-closed-img {
+  width: 20vw;
+}
